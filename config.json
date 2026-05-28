@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachecalidate",
+        "uuid": 12361356,
+        "checksum": "3rrdea"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
